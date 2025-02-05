@@ -19,5 +19,6 @@
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Basic/Largest%20Element%20in%20Array">Largest Element in Array</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Basic/Sorted%20Array%20Search">Sorted Array Search</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Array%20Leaders">Array Leaders</a></li>
+    <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Medium/Count%20Inversions">Count Inversions</a></li>
   </ul></li>
 </ol>
