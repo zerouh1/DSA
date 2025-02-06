@@ -2,6 +2,10 @@
 
 ## 📌Topics:
 <ol>
+  <li><b>Basic Maths:</b><ul>
+    <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Count%20Digits">Count Digits</a></li>
+    <li><a href ="https://github.com/zerouh1/DSA/tree/main/9-palindrome-number">Check Palindrome</a></li>
+  </ul></li>
   <li><b>Sorting:</b><ul>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Bubble%20Sort">Bubble Sort</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Insertion%20Sort">Insertion Sort</a></li>
