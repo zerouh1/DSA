@@ -2,7 +2,10 @@
 
 ## 📌Topics:
 <ol>
-  <li><b>Basic Maths:</b><ul>
+  <li><b>Learn the Basics:</b><ul>
+    <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Basic/Data%20Type">Data Type</a></li>
+    <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Basic/Decision%20Making%20in%20Java">Decision Making</a></li>
+    <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/While%20loop-%20printTable%20-%20Java">While loop print Table</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Count%20Digits">Count Digits</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/9-palindrome-number">Check Palindrome</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/7-reverse-integer">Reverse Integer</a></li>
