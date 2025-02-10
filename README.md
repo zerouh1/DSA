@@ -10,6 +10,7 @@
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Count%20Digits">Count Digits</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/9-palindrome-number">Check Palindrome</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/7-reverse-integer">Reverse Integer</a></li>
+    <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Basic/LCM%20And%20GCD">LCM and GCD</a></li>
   </ul></li>
   <li><b>Sorting:</b><ul>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Bubble%20Sort">Bubble Sort</a></li>
