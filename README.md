@@ -16,6 +16,7 @@
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Bubble%20Sort">Bubble Sort</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Insertion%20Sort">Insertion Sort</a></li>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Easy/Selection%20Sort">Selection Sort</a></li>
+    <li><a href ="https://github.com/zerouh1/DSA/tree/main/Difficulty%3A%20Medium/Quick%20Sort">Quick Sort</a></li>
   </ul></li>
   <li><b>Arrays:</b><ul>
     <li><a href ="https://github.com/zerouh1/DSA/tree/main/1-two-sum">Two Sum</a></li>
